@@ -32,3 +32,18 @@
   - 현수 -> (Student_Data_Method.java)
 
 ----
+
+## 구현 기능 소개
+
+1. Check Grades
+  - 학생의 이름을 입력하면 등록한 성적이 막대그래프로 표현
+
+2. SatisfactionSurvey
+  - 만족도 조사를 할 학생의 이름을 입력한 후에 과목을 선택하고, 제출. 만족도를 했을때만 장학생조회를 할 수 있음.
+
+3. CounselingStu
+  - Socket을 통해 교수와 상담 진행
+
+4. CounselingAdmin
+  - 연결된 Socket을 통해 학생과 상담을 진행
+
