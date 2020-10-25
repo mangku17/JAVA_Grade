@@ -35,6 +35,9 @@
 
 ## 구현 기능 소개
 
+### [기능상세설명](https://drive.google.com/file/d/1YaQwiVr2wMEoOKhZ8mYLkTPC_Vt4FmoV/view?usp=sharing "해당 PDF 공유 링크로 이동합니다.")
+ 
+
 1. Check Grades <br>
 `학생의 이름을 입력하면 등록한 성적이 막대그래프로 표현`
 ![CheckGrades](./기성조_java/img/stu_checkgrade.png)
