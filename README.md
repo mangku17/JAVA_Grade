@@ -41,14 +41,14 @@
 
 2. SatisfactionSurvey
 '만족도 조사를 할 학생의 이름을 입력한 후에 과목을 선택하고, 제출. 만족도를 했을때만 장학생조회를 할 수 있음.'
-![SatisfactionSurvey](./기성조_java/img/stu_statisfactionSurvey.jpg){: width="300" height="300"){: .center}
+![SatisfactionSurvey](./기성조_java/img/stu_statisfactionSurvey.jpg){: width="100" height="100"}
 
 3. CounselingStu / CounselingAdmin
 '학생은 Socket을 통해 교수에게 상담 신청, 교수는 연결된 Socket을 통해 학생과 상담을 진행'
-![CounselingStu/CounselingAdmin](./기성조_java/img/stu_counseling.jpg){: width="300" height="300"){: .center}
+![CounselingStu/CounselingAdmin](./기성조_java/img/stu_counseling.jpg){: width="100" height="100"}
 
   3-1. Socket 을 통해 상담 연결
-   ![Counseling](./기성조_java/img/counseling.jpg){: width="300" height="300"){: .center}
+   ![Counseling](./기성조_java/img/counseling.jpg){: width="100" height="100"}
    
   3-2. 상담 진행
-  ![Counseling](./기성조_java/img/counseling2.jpg){: width="300" height="300"){: .center}
+  ![Counseling](./기성조_java/img/counseling2.jpg){: width="100" height="100"}
