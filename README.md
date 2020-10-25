@@ -37,6 +37,7 @@
 
 1. Check Grades
   - 학생의 이름을 입력하면 등록한 성적이 막대그래프로 표현
+    ![CheckGrades](./img/stu_checkgrade.)
 
 2. SatisfactionSurvey
   - 만족도 조사를 할 학생의 이름을 입력한 후에 과목을 선택하고, 제출. 만족도를 했을때만 장학생조회를 할 수 있음.
