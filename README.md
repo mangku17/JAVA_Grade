@@ -35,15 +35,15 @@
 
 ## 구현 기능 소개
 
-1. Check Grades
+1. Check Grades <br>
 `학생의 이름을 입력하면 등록한 성적이 막대그래프로 표현`
 ![CheckGrades](./기성조_java/img/stu_checkgrade.png)
 
-2. SatisfactionSurvey
+2. SatisfactionSurvey<br>
 `만족도 조사를 할 학생의 이름을 입력한 후에 과목을 선택하고, 제출. 만족도를 했을때만 장학생조회를 할 수 있음.`
 ![SatisfactionSurvey](./기성조_java/img/stu_statisfactionSurvey.jpg)
 
-3. CounselingStu / CounselingAdmin
+3. CounselingStu / CounselingAdmin<br>
 `학생은 Socket을 통해 교수에게 상담 신청, 교수는 연결된 Socket을 통해 학생과 상담을 진행`
 ![CounselingStu/CounselingAdmin](./기성조_java/img/stu_counseling.jpg)
 
